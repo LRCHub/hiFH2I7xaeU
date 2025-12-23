@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "lemonade",
+  "base_artist": "Chilli Beans.",
+  "createdAt": "2025-12-23T13:12:06.359739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lemonade (feat. Baba Stiltz)",
+      "artist": "Yung Lean feat. Baba Stiltz",
+      "has_synced": true,
+      "path": "select/01_Lemonade_(feat._Baba_Stiltz)_Yung_Lean_feat._Baba_Stiltz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lemonade (feat. Baba Stiltz)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/02_Lemonade_(feat._Baba_Stiltz)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'm Not Your Lemonade + Heroes 'n' Villans (remix)",
+      "artist": "Major Lazer & La Roux feat. Gucci Mane",
+      "has_synced": false,
+      "path": "select/03_I'm_Not_Your_Lemonade_+_Heroes_'n'_Villans_(remix)_Major_Lazer_&_La_Roux_feat._Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm Not Your Lemonade + Heroes n Villans Remix",
+      "artist": "Major Lazer & La Roux ft. Gucci Mane",
+      "has_synced": false,
+      "path": "select/04_I'm_Not_Your_Lemonade_+_Heroes_n_Villans_Remix_Major_Lazer_&_La_Roux_ft._Gucci_Mane.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blood Like Lemonade",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/05_Blood_Like_Lemonade_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "SOPHIE",
+      "has_synced": true,
+      "path": "select/06_Lemonade_SOPHIE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "Planet Funk",
+      "has_synced": false,
+      "path": "select/07_Lemonade_Planet_Funk.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+      "artist": "Internet Money feat. Gunna, Don Toliver & NAV",
+      "has_synced": true,
+      "path": "select/08_Lemonade_(feat._Gunna,_Don_Toliver_&_NAV)_Internet_Money_feat._Gunna,_Don_Toliver_&_NAV.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lemonade (feat. Don Toliver, Gunna & NAV)",
+      "artist": "Internet Money",
+      "has_synced": true,
+      "path": "select/09_Lemonade_(feat._Don_Toliver,_Gunna_&_NAV)_Internet_Money.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lemonade (feat. Lil Duke)",
+      "artist": "Yak Gotti feat. Lil Duke",
+      "has_synced": false,
+      "path": "select/10_Lemonade_(feat._Lil_Duke)_Yak_Gotti_feat._Lil_Duke.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lemonade (feat. Lil Duke)",
+      "artist": "Lil Duke & Yak Gotti",
+      "has_synced": false,
+      "path": "select/11_Lemonade_(feat._Lil_Duke)_Lil_Duke_&_Yak_Gotti.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Iron Lemonade",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": true,
+      "path": "select/12_Iron_Lemonade_Black_Moth_Super_Rainbow.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nostalgia in Lemonade",
+      "artist": "Avey Tare",
+      "has_synced": true,
+      "path": "select/13_Nostalgia_in_Lemonade_Avey_Tare.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Blood Like Lemonade (Radio Edit)",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/14_Blood_Like_Lemonade_(Radio_Edit)_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/15_Lemonade_Beck.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "Beck",
+      "has_synced": false,
+      "path": "select/16_Lemonade_Beck.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "CocoRosie",
+      "has_synced": true,
+      "path": "select/17_Lemonade_CocoRosie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "CocoRosie",
+      "has_synced": false,
+      "path": "select/18_Lemonade_CocoRosie.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Lemonade",
+      "artist": "Porridge Radio",
+      "has_synced": false,
+      "path": "select/19_Lemonade_Porridge_Radio.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lemonade",
+      "artist": "Chilli Beans.",
+      "has_synced": false,
+      "path": "select/pl_01_lemonade_Chilli_Beans..txt"
+    }
+  ]
+}
